@@ -1,188 +1,258 @@
-👋 Hey, I’m Tayeeb Tahir Buchh
+Tayeeb Tahir Buchh
+
+Aspiring Data Analyst | Data Science & Machine Learning | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Software;Building.+Learning.+Evolving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+Data+Into+Insights;Exploring+Machine+Learning+%26+AI;Building+Full-Stack+Applications;Learning.+Building.+Evolving." alt="Typing introduction" />
 </p>
 <p align="center">
   📍 **Srinagar, Jammu & Kashmir, India**
 </p>
 <p align="center">
   <a href="https://github.com/TayeebTahirBuchh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/tayeeb-tahir-buchh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/tayeebtahirbuchh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:tayeebtahirbuchh10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ⸻
 
-01 — About Me
+About Me
 
-I’m a developer passionate about building useful applications, exploring intelligent technologies, and solving real-world problems through code.
+I’m Tayeeb Tahir Buchh, an MCA student and technology enthusiast from Srinagar, Jammu & Kashmir, India.
 
-* 🎓 Pursuing MCA at Islamic University of Science and Technology (IUST).
-* 🎓 BCA Graduate — 8.67 CGPA.
-* 🤖 Former AI & Machine Learning Intern at Labmentix, Bengaluru.
-* 💻 Interested in Full-Stack Development and Data Science.
-* 🧠 Exploring Machine Learning, Artificial Intelligence, and Data Analytics.
-* 📍 Based in Srinagar, Jammu & Kashmir, India.
+I enjoy working at the intersection of data, technology, and software development. My interests revolve around discovering insights from data, understanding machine learning models, and developing full-stack applications that solve practical problems.
+
+My career interests are focused on three connected areas:
+
+* 📊 Data Analytics: Exploring datasets, identifying patterns, extracting insights, and supporting data-driven decisions.
+* 🤖 Data Science & Machine Learning: Understanding predictive modelling, statistical learning, data preprocessing, and model evaluation.
+* 💻 Full-Stack Development: Building responsive applications, developing backend APIs, and working with databases.
+
+Education & Experience
+
+* 🎓 Master of Computer Applications (MCA) — Islamic University of Science and Technology (IUST), Pulwama.
+* 🎓 Bachelor of Computer Applications (BCA) — 8.67 CGPA.
+* 🤖 AI & Machine Learning Intern — Labmentix, Bengaluru.
+* 📍 Srinagar, Jammu & Kashmir, India.
 
 ⸻
 
-02 — Tech Stack
+My Technical Interests
 
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development-334155?style=for-the-badge" />
 </p>
 
-Frontend
+Technical Skills
+
+Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,php" />
 </p>
 
-Backend & Database
+Data Analytics & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-AI, ML & Data Science
+Areas of interest: Data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, regression, classification, model evaluation, and predictive analytics.
+
+Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-Tools
+Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-⸻
+Databases
 
-03 — Featured Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-💰 Finance Data Portal
+Developer Tools
 
-Full-Stack Financial Management Platform
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 
-A full-stack finance management application designed to help users organize their finances through transaction tracking, interactive dashboards, budget planning, savings goals, and financial reports.
-
-Technologies: React 19 · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
-
-🔗 View Repository
-
-⸻
-
-💳 Credit Card Fraud Prediction
-
-Machine Learning & Predictive Analytics
-
-A machine learning project focused on identifying potentially fraudulent credit card transactions using data preprocessing, exploratory analysis, and predictive modelling.
-
-Technologies: Python · Pandas · NumPy · Scikit-learn
-
-🔗 Explore My GitHub
+Additional technologies: TypeScript, Mongoose, Zod, bcrypt, Express Session, connect-mongo, Helmet, CORS, TCPDF and Vercel.
 
 ⸻
 
-🎬 Movie Prediction System
+Featured Projects
 
-Machine Learning Project
+01. Finance Data Portal
 
-A Python-based project involving movie data analysis, preprocessing, predictive modelling, and visualization to explore patterns and generate predictions from movie-related data.
+Full-Stack Development · Financial Data Management
 
-Technologies: Python · Pandas · NumPy · Scikit-learn · Matplotlib
+A full-stack personal and business finance platform designed to organize financial information through interactive dashboards, transaction management, budgets, savings goals, and financial reports.
 
-🔗 Explore My GitHub
+Key Features
+
+* Personal and business workspaces.
+* Income and expense tracking.
+* Account and category management.
+* Budget planning and savings goals.
+* Financial summaries and interactive reports.
+* Secure authentication and session management.
+
+Technology: React 19, TypeScript, Tailwind CSS v4, Node.js, Express, MongoDB, Mongoose, Zod.
+
+↗ View Repository
 
 ⸻
 
-🎓 Examiner Appointment System
+02. Credit Card Fraud Prediction
 
-University Examination Management Application
+Machine Learning · Classification
 
-A role-based university application designed to streamline external examination workflows, including question paper assignments, submissions, syllabus management, and PDF bill generation.
+A machine learning project focused on detecting potentially fraudulent credit card transactions. It addresses severe class imbalance and compares classification models using evaluation metrics beyond accuracy.
 
-Technologies: Core PHP · MySQL · JavaScript · TCPDF
+Key Concepts
 
-🔗 Explore My GitHub
+* Data validation and preprocessing.
+* Imbalanced classification.
+* Logistic Regression and Random Forest.
+* Model selection using Average Precision.
+* Precision, Recall, F1-score and ROC-AUC.
+* Confusion matrix analysis.
+
+Technology: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook.
+
+↗ View Repository
 
 ⸻
 
-04 — GitHub Analytics
+03. IMDb India Movie Rating Prediction
+
+Machine Learning · Regression
+
+A regression project that predicts IMDb ratings for Indian movies using metadata such as release year, vote count, genre, director, and cast information.
+
+Key Concepts
+
+* Exploratory data analysis.
+* Missing-value handling and feature preprocessing.
+* Categorical encoding and numerical scaling.
+* Ridge Regression and Random Forest Regression.
+* MAE, RMSE and R² evaluation.
+* Training, validation and test workflow.
+
+Technology: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
+
+↗ View Repository
+
+⸻
+
+04. Examiner Appointment System
+
+Full-Stack Development · University Workflow Automation
+
+A web-based university examination management application that streamlines external examination workflows, from question-paper assignment to teacher submissions and administrative review.
+
+Key Features
+
+* Role-based dashboards for Admin, Competent Authority and Teacher.
+* Question-paper assignment and submission.
+* Examination document management.
+* Authentication and access control.
+* PDF bill generation using TCPDF.
+
+Technology: Core PHP, MySQL, HTML, CSS, JavaScript, TCPDF.
+
+↗ View Repository
+
+⸻
+
+GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TayeebTahirBuchh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeebTahirBuchh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=TayeebTahirBuchh&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=TayeebTahirBuchh&theme=tokyonight&hide_border=true" />
 </p>
 
 ⸻
 
-05 — Beyond The Code
+Currently Exploring
 
 <details>
-<summary>🎯 Current Focus</summary>
+<summary>📊 Data Analytics & Business Intelligence</summary>
 
-* Strengthening full-stack development.
-* Improving data analytics and machine learning skills.
-* Building practical projects.
-* Exploring new technologies and development tools.
+* Improving analytical thinking and SQL skills.
+* Working with data cleaning and transformation.
+* Exploring meaningful visualizations and reporting.
+* Learning to communicate insights clearly.
 
 </details>
 <details>
-<summary>🧩 My Approach</summary>
+<summary>🤖 Data Science & Machine Learning</summary>
 
-* Learn by building.
-* Focus on solving actual problems.
-* Write maintainable and understandable code.
-* Keep experimenting and improving.
+* Regression and classification algorithms.
+* Feature engineering and model evaluation.
+* Exploratory data analysis.
+* Understanding statistical and machine learning concepts.
 
 </details>
 <details>
-<summary>🎸 Outside Technology</summary>
+<summary>💻 Full-Stack Engineering</summary>
 
-* Music and guitar.
-* Exploring new ideas.
-* Learning about technology.
-* Discovering new places and experiences.
+* React and TypeScript application development.
+* REST API development with Node.js and Express.
+* MongoDB data modelling.
+* Authentication, backend architecture and application security.
 
 </details>
 
 ⸻
 
-06 — Let’s Connect
+Let’s Connect
 
-I’m always interested in connecting with developers, learning from others, and exploring interesting opportunities.
+I’m interested in opportunities, collaborations, and projects involving:
+
+* Data Analytics and Business Intelligence.
+* Data Science and Machine Learning.
+* Full-Stack Application Development.
 
 <p align="center">
   <a href="mailto:tayeebtahirbuchh10@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tayeeb-tahir-buchh/">
+  <a href="https://linkedin.com/in/tayeebtahirbuchh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/TayeebTahirBuchh">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TayeebTahirBuchh&label=Profile%20Views&color=00F7A5&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=TayeebTahirBuchh&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 <p align="center">
-  <i>"Build with curiosity. Improve with consistency."</i>
-</p>
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  <i>Curious about data. Passionate about technology. Driven to build.</i>
 </p>
